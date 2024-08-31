@@ -1,6 +1,38 @@
-body {
-    font-family: Arial, sans-serif;
+div {overflow: hidden; margin: 1em; }
+div ul li { display: inline; white-space: nowrap; margin-left: 8px; }
+
+.footerContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 800px;
 }
+
+body {
+    color: black;
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: white;
+      background-color: black;
+    }
+  
+    a:link { color: lightskyblue; }
+    a:visited { color: #6d4b8d; }
+    a:hover { color: #ffffff; }
+    a:active { color: #ff4040; }
+  
+    .button {
+      background-color: darkgreen;
+    }
+  
+    .download {
+      background-color: darkgreen;
+    }
+  }   
 
 .button {
     display: block;
