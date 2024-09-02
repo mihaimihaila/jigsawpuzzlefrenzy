@@ -1,11 +1,17 @@
-div { overflow: hidden; }
-div ul li { display: inline; white-space: nowrap; margin-left: 8px; }
+ul li { display: inline; padding: 4px; }
+
+.authorImageContainer {
+    max-width: 120px;
+}
+
+.authorImage {
+    border-radius: 12%;
+    max-width: 120px
+}
 
 .footerContainer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    max-width: 800px;
+    display: flex;
+    justify-content: center;    
 }
 
 body {
