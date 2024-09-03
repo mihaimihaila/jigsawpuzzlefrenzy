@@ -1,4 +1,4 @@
-ul li { display: inline; padding: 4px; }
+ol li { display: inline; padding: 4px; }
 
 .authorImageContainer {
     max-width: 120px;
