@@ -2,9 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Home Page -->
   <url>
-    <loc>https://jigsawpuzzlefrenzy.com</loc>
-    <lastmod>2024-08-31</lastmod>
+    <loc>https://jigsawpuzzlefrenzy.com/</loc>
+    <lastmod>2024-08-29</lastmod>
     <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://jigsawpuzzlefrenzy.com/support</loc>
+    <lastmod>2024-08-29</lastmod>
+    <priority>0.5</priority>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://jigsawpuzzlefrenzy.com/about</loc>
+    <lastmod>2024-08-29</lastmod>
+    <priority>0.5</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://jigsawpuzzlefrenzy.com/news</loc>
+    <lastmod>2024-08-29</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://jigsawpuzzlefrenzy.com/help</loc>
+    <lastmod>2024-08-29</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
