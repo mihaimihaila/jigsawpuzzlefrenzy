@@ -37,6 +37,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://jigsawpuzzlefrenzy.com/news/2026-01-01-happy-new-year-2026.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
     <loc>https://jigsawpuzzlefrenzy.com/news/2025-12-23-christmas-charm.html</loc>
     <lastmod>2025-12-23</lastmod>
     <priority>0.3</priority>
