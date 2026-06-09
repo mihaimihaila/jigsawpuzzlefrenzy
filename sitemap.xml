@@ -368,6 +368,12 @@
     <changefreq>yearly</changefreq>
   </url>
   <url>
+    <loc>https://jigsawpuzzlefrenzy.com/docs/jigsaw-puzzle-offline.html</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
     <loc>https://jigsawpuzzlefrenzy.com/docs/how-to-purchase.html</loc>
     <lastmod>2023-12-03</lastmod>
     <priority>0.3</priority>
